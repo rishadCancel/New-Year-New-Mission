@@ -4,7 +4,7 @@
 
 div{
     background-image: url("../images/Banner_Image.png");
-    height: 1000px;
+    height: 600px;
     width: auto;
     margin: 50px 240px;
     background-repeat: no-repeat;    
@@ -14,7 +14,7 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 15%;
+    padding-top: 280px;
 }
 .banner-text-big{
     color: white;
@@ -22,4 +22,26 @@ div{
     justify-content: center;
     align-items: center;
     /* padding-top: 15%; */
+}
+
+.discount{
+    height: 300px;
+    width: auto;
+    margin: 50px 500px;
+}
+.off-line{
+    margin-left: 40%;
+}
+.better-line{
+    padding-top: 50px;
+    margin-left: 30%;
+}
+.category{
+    margin-left: 35%;
+    padding-top: 20px;
+}
+.discount-image{
+    padding-top: 20px;
+    height: 400px;
+    margin-left: 5%;
 }
