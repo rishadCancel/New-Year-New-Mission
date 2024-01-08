@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+div{
+    background-image: url("../images/Banner_Image.png");
+    height: 1000px;
+    width: auto;
+    margin: 50px 240px;
+    background-repeat: no-repeat;    
+}
+.banner-text{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15%;
+}
+.banner-text-big{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-top: 15%; */
+}
